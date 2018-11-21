@@ -1,8 +1,8 @@
 # serch
 
-Named after the MC who faked beef with Nas for all the right reasons
-Evaded a bounty on his head from MC Hammer
-And laid the groundwork for Engine Optimization
+Named after the MC who faked beef with Nas for all the right reasons.
+Evaded a bounty on his head from MC Hammer,
+and laid the groundwork for his own Engine Optimization (SEO).
 
 ## Usage
 
